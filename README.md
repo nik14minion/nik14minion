@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Node.js and Java programming**  
+- 🌱 I’m currently building across the **full stack, one feature at a time.**  
 - 💬 Ask me about **React.js and C++**  
 - 📫 How to reach me: **mailtonikita0114@gmail.com**  
 - ⚡ Fun fact: **I learn tech by building cool messes 😅**
