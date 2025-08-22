@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
+<h1 align="center">Hello world! 👋, I'm Nikita</h1>
 <p align="center">
   <img src="https://i.pinimg.com/originals/4c/89/60/4c896090b3c0522c8d8cd8866f77891e.gif" alt="Coding Minion" width="300" height="300"/>
 </p>
