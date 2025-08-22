@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita</h1>
+<p align="center">
+  <img src="https://cdn.dribbble.com/userupload/20549102/file/original-84432515c793dc62458aa3990c078dd2.gif" alt="Coding Minion" width="200" height="200"/>
+</p>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Node.js and Java programming**
