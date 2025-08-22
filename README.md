@@ -6,7 +6,7 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 
 - 🌱 I’m currently building across the **full stack, one feature at a time.**  
-- 💬 Ask me about **React.js and C++**  
+- 💬 Ask me about **C++ and Frontend**  
 - 📫 How to reach me: **mailtonikita0114@gmail.com**  
 - ⚡ Fun fact: **I learn tech by building cool messes 😅**
 
